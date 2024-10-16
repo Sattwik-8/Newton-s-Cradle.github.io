@@ -16,6 +16,9 @@ This project visually represents how the motion of one sphere is transferred thr
 - Smooth, responsive animations to simulate the cradle's movement
 - A minimalist and clean interface, making it lightweight and fast
 - Cross platform
+  
+## Running Tests
+https://github.com/user-attachments/assets/66da7f6d-f26a-42cf-abf8-505879529742
 ## Author
 
 - SATTWIK DHARA
@@ -26,8 +29,5 @@ This project visually represents how the motion of one sphere is transferred thr
 If you have any feedback, please reach out to us at sattwikdhara70@gmail.com
 
 
-## Running Tests
-```bash
-  npm run test
-```
+
 
