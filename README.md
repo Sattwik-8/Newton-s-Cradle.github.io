@@ -15,6 +15,13 @@ This project visually represents how the motion of one sphere is transferred thr
 - Pure HTML and CSS design with no external libraries
 - Smooth, responsive animations to simulate the cradle's movement
 - A minimalist and clean interface, making it lightweight and fast
+
+  
+## Demo
+
+Feel free to explore the live version of this project here:
+<br>
+https://sattwik-8.github.io/Newton-s-Cradle.github.io/
   
 ## Running Tests
 https://github.com/user-attachments/assets/66da7f6d-f26a-42cf-abf8-505879529742
